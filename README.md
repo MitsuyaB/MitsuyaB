@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mitsuya
-- 👀 I’m interested in neuroscience, playing games and watching movies
+- 👋 Hi, I’m @Bao
+- 👀 I’m interested in neuroscience, molecular diagnosis and computational neuroscience
 - 🌱 I’m currently learning biomedical engineering
 - 📫 How to reach me: 
 <br> Facebook: https://www.facebook.com/pham.hoaibao.39 
