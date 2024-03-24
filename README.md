@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bao
-- 👀 I’m interested in neuroscience, molecular diagnosis and computational neuroscience
+- 👀 I’m interested in neuroscience, molecular diagnosis and neurodegenerative disease
 - 🌱 I’m currently learning biomedical engineering
 - 📫 How to reach me: 
 <br> Facebook: https://www.facebook.com/pham.hoaibao.39 
